@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shouvik Parui</h1>
-<h3 align="center">A passionate frontend developer from Techno Main Saltlake</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouvikparui&label=Profile%20views&color=0e75b6&style=flat" alt="shouvikparui" /> </p>
 
